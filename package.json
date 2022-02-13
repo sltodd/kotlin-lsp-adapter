@@ -12,7 +12,7 @@
     "atom-languageclient": "^1.6.1"
   },
   "configSchema": {
-    "metals-lsp": {
+    "kotlin-lsp": {
       "title": "kotlin Language Server",
       "order": 1,
       "type": "string",
