@@ -13,11 +13,11 @@
   },
   "configSchema": {
     "kotlin-lsp": {
-      "title": "kotlin Language Server",
+      "title": "Kotlin Language Server",
       "order": 1,
       "type": "string",
       "default": "kotlin-language-server.bat",
-      "description": "Path to your metals executable used to launch the Kotlin language server (kotlin-language-server on unix/linux or kotlin-language-server.bat on windows)."
+      "description": "Path to your executable used to launch the Kotlin language server (kotlin-language-server on unix/linux or kotlin-language-server.bat on windows)."
     }
   },
   "enhancedScopes": [
