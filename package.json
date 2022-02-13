@@ -1,7 +1,7 @@
 {
   "name": "kotlin-lsp-adapter",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Kotlin language server adapter for Atom.",
   "repository": "https://github.com/sltodd/kotlin-lsp-adapter",
   "license": "MIT",
